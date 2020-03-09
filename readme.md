@@ -1,1 +1,3 @@
 continous integration 
+travis
+coveralls
